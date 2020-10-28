@@ -43,7 +43,7 @@ The diagram below depicts the number of times Maria broke her best and worst rec
 
 image
 
-She broke her best record twice (after games 2 and 7) and her worst record four times (after games 1,4,6,and8 ), so we print 2 4 as our answer. Note that she did not break her record for best score during game 3, as her score during that game was not strictly greater than her best record at the time.
+She broke her best record twice (after games 2 and 7) and her worst record four times (after games 1,4,6,and 8 ), so we print 2 4 as our answer. Note that she did not break her record for best score during game 3, as her score during that game was not strictly greater than her best record at the time.
 
 '''
 
