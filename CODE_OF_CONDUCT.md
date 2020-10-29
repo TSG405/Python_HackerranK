@@ -77,7 +77,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 10. Contact info
 
-
+tasengupta405@gmail.com
 
 ## 11. License and attribution
 
